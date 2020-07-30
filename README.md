@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Slurk and Rated
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: andersmhalvorsen@gmail.com
 - ⚡ Fun fact: The first computer bug was an actual bug
+- 📫 How to reach me: andersmhalvorsen@gmail.com
 
 <!--
 **andersmh/andersmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
