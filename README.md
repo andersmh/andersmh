@@ -5,7 +5,7 @@
 - 📫 How to reach me: andersmhalvorsen@gmail.com
 - ⚡ Fun fact: The first computer bug was an actual bug
 
-<--
+<!--
 **andersmh/andersmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
