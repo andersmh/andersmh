@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 Studying Master of Computer Science @ University of South-Eastern Norway
+- 🎓 Studying Master of Science in Computer Science @ University of South-Eastern Norway
 - ⚡ Fun fact: The first computer bug was an actual bug
 - 🔭 I’m currently working on Slurk and Rated
 - 🌱 I’m currently learning Machine Learning, Big Data and AI
