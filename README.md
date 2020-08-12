@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Slurk and Rated
-- 🌱 I’m currently learning Machine Learning
+- 🎓 Studying Master of Computer Science @ University of South-Eastern Norway
 - ⚡ Fun fact: The first computer bug was an actual bug
+- 🔭 I’m currently working on Slurk and Rated
+- 🌱 I’m currently learning Machine Learning, Big Data and AI
+
 - 📫 How to reach me: andersmhalvorsen@gmail.com
+
 
 <!--
 **andersmh/andersmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
