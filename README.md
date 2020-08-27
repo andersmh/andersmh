@@ -3,7 +3,7 @@
 - 🎓 Studying Master of Science in Computer Science @ University of South-Eastern Norway
 - ⚡ Fun fact: The first computer bug was an actual bug
 - 🔭 I’m currently working on Slurk and Rated
-- 🌱 I’m currently learning Machine Learning, Big Data and AI
+- 🌱 I’m currently learning Machine Learning, Big Data, FGPA and VHDL
 
 <!--
 **andersmh/andersmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
