@@ -4,7 +4,7 @@
 
 - 🎓 Studying Master of Science in Computer Science @ University of South-Eastern Norway
 - ⚡ Fun fact: The first computer bug was an actual bug
-- 🔭 I’m currently working on Something?
+- 🔭 I’m currently working on 👀?
 - 🕵️‍ Thank you for stopping by 
 
 
