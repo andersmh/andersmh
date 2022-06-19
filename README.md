@@ -10,4 +10,4 @@
 
 
 ### Find me elsewhere 🌍
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/anders-mæhlum-halvorsen-653803130/))](https://www.linkedin.com/in/diogorodrigues02/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/anders-mæhlum-halvorsen-653803130/))]([https://www.linkedin.com/in/diogorodrigues02/](https://www.linkedin.com/in/anders-mæhlum-halvorsen-653803130/))
