@@ -4,6 +4,8 @@
 
 - 💻 Computer Scientist (Sivilingeniør)
 - 🕵️‍ Thank you for stopping by 
-
+- a
+- a
+- a
 
 
