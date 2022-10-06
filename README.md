@@ -4,7 +4,7 @@
 
 - 💻 Computer Scientist
 - 🇳🇴 Norwegian
-- 🎯 Gym and Gaming
+- 🎯 Gym & Gaming
 - 🕵️‍ Thank you for stopping by 
 
 
