@@ -1,6 +1,6 @@
 ## Hi there 👋 🇳🇴
-My name is Anders, I'm a positive and involved software developer with a passion for Full-Stack Development. I have a special interest in product quality, design, and project success.
 <img align="right" src="https://user-images.githubusercontent.com/31239471/115021641-80fc7100-9ebc-11eb-903c-5bec3ca270bf.gif" height="200" style="border-radius: 50%"/>
+My name is Anders, I'm a positive and involved software developer with a passion for Full-Stack Development. I have a special interest in product quality, design, and project success.
 
 ## Education
 🏫 Master of Science in Computer Science\
