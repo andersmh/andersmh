@@ -7,9 +7,9 @@
 🏫 Bachelor of Science in Computer Engineering
 
 ## Hobbies
-🏋️ Gym
-🎮 Gaming
-⏱️ Watches
+🏋️ Gym\
+🎮 Gaming\
+⏱️ Watches\
 
 
 ### Find me elsewhere 🌍
