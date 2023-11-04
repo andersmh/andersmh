@@ -1,4 +1,4 @@
-## Hi there 👋 🇳🇴
+# Hi there 👋 🇳🇴
 ### Education
 🏫 Master of Science in Computer Science\
 🏫 Bachelor of Science in Computer Engineering
